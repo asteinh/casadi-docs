@@ -1,0 +1,5 @@
+.DS_Store
+snippets/
+build/
+__pycache__
+*.pdf
