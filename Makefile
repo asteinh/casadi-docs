@@ -49,4 +49,4 @@ html: clean
 
 pdf: clean
 	make latexpdf
-	cp $(BUILDDIR)/latex/CasADi.pdf users_guide.pdf
+	cp $(BUILDDIR)/latex/CasADi.pdf $(BUILDDIR)/users_guide.pdf
